@@ -1,0 +1,6 @@
+[submodule "My-Blog-Backend"]
+	path = My-Blog-Backend
+	url = https://github.com/gesela/My-Blog-Backend
+[submodule "Myblog-frontend"]
+	path = Myblog-frontend
+	url = https://github.com/gesela/Myblog-frontend
